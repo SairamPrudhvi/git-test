@@ -1,1 +1,2 @@
-trying to understand fetch and pull
+trying to understand fetch and pull.
+Now I learned the fetch and pull and now pushing back the changes to github.
